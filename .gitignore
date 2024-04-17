@@ -1,0 +1,31 @@
+# Files
+*.class
+*.log
+*.pyc
+*.swp
+*.iml
+*.ipr
+*.iws
+
+app.*.symbols
+app.*.map.json
+pubspec.lock
+CHANGES.txt
+
+.DS_Store
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Directories
+build/
+migrate_working_dir/
+
+.atom/
+.buildlog/
+.dart_tool/
+.history
+.idea/
+.pub-cache/
+.pub/
+.svn/
+.vscode/

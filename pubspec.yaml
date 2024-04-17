@@ -1,0 +1,21 @@
+name: isnavbar
+description: "An infinitely scrollable navigation bar widget for Flutter."
+version: 1.0.0
+homepage: https://github.com/Tejaromalius/ISNavBar
+repository: https://github.com/Tejaromalius/ISNavBar
+documentation: https://github.com/Tejaromalius/ISNavBar/blob/main/README.md
+topics:
+  - flutter
+  - navigation-bar
+  - ui
+platforms:
+  android:
+  ios:
+
+environment:
+  sdk: ">=3.2.6 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
